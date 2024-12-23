@@ -1,3 +1,4 @@
+package SingleLinkedList;
 // Traversal of Singly Linked List
 
 class Node{
