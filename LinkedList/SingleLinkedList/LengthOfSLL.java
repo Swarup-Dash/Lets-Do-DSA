@@ -14,6 +14,7 @@ public class LengthOfSLL {
         return length;
     }
     public static void main(String[] args) {
+
         Node node1 = new Node(10);
         Node node2 = new Node(20);
         Node node3 = new Node(30);
@@ -27,7 +28,6 @@ public class LengthOfSLL {
 
         Node head = node1;
         System.out.println(lengthofSll(head));
-
 
     }
 }
