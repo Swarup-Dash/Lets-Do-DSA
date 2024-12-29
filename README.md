@@ -16,8 +16,8 @@ public class Node {
     int data;
     Node next;
 
-    // Constructor to initialize the node with data
-    public Node(int data)
+    public Node(int data)     // Constructor to initialize the node with data
+
     {
         this.data = data;
         this.next = null;
@@ -25,17 +25,17 @@ public class Node {
 }
 
 # Operations on Singly Linked List
-    Traversal
-    Searching
-    Length
-    Insertion:
-    Insert at the beginning
-    Insert at the end
-    Insert at a specific position
-    Deletion:
-    Delete from the beginning
-    Delete from the end
-    Delete a specific node
+    --Traversal
+    --Searching
+    --Length
+    --Insertion:
+        - At the beginning
+        - At the end
+        - At a specific position
+    --Deletion:
+        - At the beginning
+        - At the end
+        - At specific node
 
 # ----------------------------------------------------------->
 
