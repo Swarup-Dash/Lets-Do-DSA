@@ -11,6 +11,7 @@ class Node {
 
 public class DeletionAtPosition {
     public static void main(String[] args) {
+        
         Node data1 = new Node(10);
         Node data2 = new Node(20);
         Node data3 = new Node(30);
