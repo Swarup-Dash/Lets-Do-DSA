@@ -90,8 +90,9 @@ class Node {
 # Circular Linked List--
 
 It is of 2 type:
-    -Single Circular Linked List
-    -Double Circular Linked List
+
+    --Single Circular Linked List
+    --Double Circular Linked List
 
 #   1. Circular Singly Linked List
 
@@ -105,13 +106,13 @@ In circular doubly linked list, each node has two pointers prev and next, simila
 
 We can do some operations on the circular linked list similar to the singly and doubly linked list which are:
 
--->Insertion
-    -Insertion at the empty list
-    -Insertion at the beginning
-    -Insertion at the end
-    -Insertion at the given position
--->Deletion
-    -Delete the first node
-    -Delete the last node
-    -Delete the node from any position
--->Searching
+    --->Insertion
+        -Insertion at the empty list
+        -Insertion at the beginning
+        -Insertion at the end
+        -Insertion at the given position
+    --->Deletion
+        -Delete the first node
+        -Delete the last node
+        -Delete the node from any position
+    --->Searching
