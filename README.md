@@ -84,3 +84,34 @@ class Node {
         -At the Begnining
         -At the End
         -At the Specific Position
+
+# ----------------------------------------------------------->
+
+# Circular Linked List--
+
+It is of 2 type:
+    -Single Circular Linked List
+    -Double Circular Linked List
+
+#   1. Circular Singly Linked List
+
+In Circular Singly Linked List, each node has just one pointer called the “next” pointer. The next pointer of last node points back to the first node and this results in forming a circle. In this type of Linked list we can only move through the list in one direction.
+
+#   2. Circular Doubly Linked List:
+
+In circular doubly linked list, each node has two pointers prev and next, similar to doubly linked list. The prev pointer points to the previous node and the next points to the next node. Here, in addition to the last node storing the address of the first node, the first node will also store the address of the last node.
+
+# Operations on the Circular Linked list:
+
+We can do some operations on the circular linked list similar to the singly and doubly linked list which are:
+
+-->Insertion
+    -Insertion at the empty list
+    -Insertion at the beginning
+    -Insertion at the end
+    -Insertion at the given position
+-->Deletion
+    -Delete the first node
+    -Delete the last node
+    -Delete the node from any position
+-->Searching
