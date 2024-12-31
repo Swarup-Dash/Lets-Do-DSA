@@ -47,9 +47,9 @@ A doubly linked list is a data structure that consists of a set of nodes, each o
 
 In a data structure, a doubly linked list is represented using nodes that have three fields:
 
--Data
--A pointer to the next node (next)
--A pointer to the previous node (prev)
+    --Data
+    --A pointer to the next node (next)
+    --A pointer to the previous node (prev)
 
 # Implementation of a Node in a double linked list
 
